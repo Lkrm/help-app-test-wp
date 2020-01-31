@@ -3,12 +3,12 @@
     "0": {
       "routePath": "service1",
       "componentName": "Service1",
-      "componentPath": "Service1.js"
+      "componentPath": "Service1"
     },
     "1": {
       "routePath": "service2",
       "componentName": "Service2",
-      "componentPath": "Service2.js"
+      "componentPath": "Service2"
     }
   }
 }
