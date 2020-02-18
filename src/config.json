@@ -3,7 +3,7 @@
     "0": {
       "routePath": "Service",
       "componentName": "HappyComponent",
-      "componentPath": "./components/HappyComponent.js"
+      "componentPath": "components/HappyComponent.js"
     }
   }
 }
